@@ -2,6 +2,18 @@
 
 An intelligent financial analysis and portfolio management system built with Rust, leveraging AI agents to make investment decisions based on Warren Buffett's principles.
 
+## ⚠️ Important Disclaimer
+
+**This project is for research and educational purposes only. It is not intended for actual trading or investment decisions.**
+
+- **Not Financial Advice**: This system does not provide financial advice and should not be used as the sole basis for investment decisions.
+- **No Performance Guarantees**: Past performance does not guarantee future results. AI predictions may be inaccurate.
+- **Risk of Loss**: Trading and investing involve substantial risk of loss. You may lose some or all of your investment.
+- **Consult Professionals**: Always consult with qualified financial advisors before making investment decisions.
+- **Use at Your Own Risk**: The authors and contributors are not responsible for any financial losses incurred through the use of this system.
+
+By using this software, you acknowledge that you understand these risks and agree to use it solely for educational and research purposes.
+
 ## Overview
 
 AI Hedgefund is a sophisticated platform that combines financial data analysis with AI-powered decision making to evaluate stocks and manage investment portfolios. The system employs multiple specialized AI agents that work together to analyze financial metrics, assess risk, and make trading decisions.
