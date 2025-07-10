@@ -1,4 +1,4 @@
-# AI Hedgefund
+# AI Trading
 
 An intelligent financial analysis and portfolio management system built with Rust, leveraging AI agents to make investment decisions based on Warren Buffett's principles.
 
